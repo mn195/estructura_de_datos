@@ -1,0 +1,6 @@
+¿La pila está vacía? true
+Pila después de agregar A, B y C: [C, B, A]
+Elemento en la cima: C
+Elemento retirado: C
+Pila después de retirar: [B, A]
+Cantidad de elementos: 2
